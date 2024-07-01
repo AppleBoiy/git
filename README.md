@@ -38,8 +38,19 @@ mygit init
 
 ## LICENSE
 
+
+### The starter code 
+
 ```plaintext
 The starter code in this repository is a part of the CodeCrafters Git challenge.
 ```
+
+see - https://app.codecrafters.io/courses/git/overview for more details.
+
+### References
+
+"clone" command is implemented by timhwang777 - https://github.com/timhwang777/git-cpp
+
+### My solution
 
 My solution is under the Apache 2.0 License. See [LICENSE](LICENSE) for more details.
