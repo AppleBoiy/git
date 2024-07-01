@@ -36,3 +36,10 @@ mkdir -p /tmp/testing && cd /tmp/testing
 mygit init
 ```
 
+## LICENSE
+
+```plaintext
+The starter code in this repository is a part of the CodeCrafters Git challenge.
+```
+
+My solution is under the Apache 2.0 License. See [LICENSE](LICENSE) for more details.
